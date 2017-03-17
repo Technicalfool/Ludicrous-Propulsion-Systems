@@ -1,0 +1,17 @@
+{
+	"NAME":"Ludicrous-Fuel-Tanks"
+	"URL":"https://github.com/BenjaminCronin/Ludicrous-Fuel-Tanks"
+	"VERSION":
+	{
+		"MAJOR":0,
+		"MINOR":1,
+		"PATCH":0,
+		"BUILD":0
+	},
+	"KSP_VERSION"
+	{
+		"MAJOR":1,
+		"MINOR":2,
+		"PATCH":2
+	}
+}

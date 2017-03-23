@@ -1,4 +1,4 @@
-# Ludicrous-Fuel-Tanks
+# Ludicrous-Propulsion-Systems
 [KSP] A mod that adds much longer 0.625 and 1.25 meter parts, and some interesting new engine designs.
 
 ## Why?

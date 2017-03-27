@@ -2,18 +2,22 @@
 //Double spaces represent the different parts, easier to see. All other spaceing was premade. 
 //FOR REFERENCE: This is what a log for 1 part should look like.
 
-//[LOG 18:08:02.865] PartLoader: Compiling Part 'Squad/Parts/Aero/aerodynamicNoseCone/aerodynamicNoseCone/noseCone'
-//[LOG 18:08:02.872] PartLoader: Part 'Squad/Parts/Aero/aerodynamicNoseCone/aerodynamicNoseCone/noseCone' has no database record. Creating.
-//[LOG 18:08:02.880] DragCubeSystem: Creating drag cubes for part 'noseCone'
+/*
+[LOG 18:08:02.865] PartLoader: Compiling Part 'Squad/Parts/Aero/aerodynamicNoseCone/aerodynamicNoseCone/noseCone'
+[LOG 18:08:02.872] PartLoader: Part 'Squad/Parts/Aero/aerodynamicNoseCone/aerodynamicNoseCone/noseCone' has no database record. Creating.
+[LOG 18:08:02.880] DragCubeSystem: Creating drag cubes for part 'noseCone'
+*/
 
 //Three lines: PartLoader, PartLoader, DragCubeSystem
 
 
 [LOG 18:08:02.116] PartLoader: Creating part database
+
+
 [LOG 18:08:02.118] PartLoader: Compiling Part 'LudicrousPropulsionSystems/Parts/Engine/hybridEngineBodyBlow/bodyBlow/hybridExtraLarge'
 [LOG 18:08:02.139] EffectList: Created 14 effect types
-[WRN 18:08:02.153] PartLoader Warning: Variable catagory not found in Part
-[WRN 18:08:02.154] PartLoader Warning: Variable subcatagory not found in Part
+[WRN 18:08:02.153] PartLoader Warning: Variable catagory not found in Part //Misspelling
+[WRN 18:08:02.154] PartLoader Warning: Variable subcatagory not found in Part //^^^
 [LOG 18:08:02.191] PartLoader: Part 'LudicrousPropulsionSystems/Parts/Engine/hybridEngineBodyBlow/bodyBlow/hybridExtraLarge' has no database record. Creating.
 [LOG 18:08:02.199] DragCubeSystem: Creating drag cubes for part 'hybridExtraLarge'
 
@@ -40,8 +44,8 @@
 [LOG 18:08:02.359] PartLoader: Compiling Part 'LudicrousPropulsionSystems/Parts/Engine/liquidEngineADPT-303/ADPT-303/adaptingEngineSmall'
 [WRN 18:08:02.361] ERROR: Bad node definition at node_stack_top //This is ok. Not defined in .cfg
 [WRN 18:08:02.362] ERROR: Bad node definition at node_stack_bottom //This is ok. ^
-[WRN 18:08:02.363] PartLoader Warning: Variable catagory not found in Part //Check later...
-[ERR 18:08:02.370] Cannot find a PartModule of typename 'ModuleGimble' //Check later...
+[WRN 18:08:02.363] PartLoader Warning: Variable catagory not found in Part //Misspelling
+[ERR 18:08:02.370] Cannot find a PartModule of typename 'ModuleGimble' //Misspelling
 
 [LOG 18:08:02.378] PartLoader: Part 'LudicrousPropulsionSystems/Parts/Engine/liquidEngineADPT-303/ADPT-303/adaptingEngineSmall' has no database record. Creating.
 [LOG 18:08:02.383] DragCubeSystem: Creating drag cubes for part 'adaptingEngineSmall'
@@ -63,6 +67,8 @@
 [WRN 18:08:02.533] PartLoader Warning: Variable catagory not found in Part
 [LOG 18:08:02.543] PartLoader: Part 'LudicrousPropulsionSystems/Parts/Engine/liquidEngineBullet/bullet/bulletEngine' has no database record. Creating.
 [LOG 18:08:02.548] DragCubeSystem: Creating drag cubes for part 'bulletEngine'
+
+
 [LOG 18:08:02.616] PartLoader: Compiling Part 'LudicrousPropulsionSystems/Parts/FuelTank/fuelTankBorisE/fuelTankBorisE/fuelTankBorisE'
 [LOG 18:08:02.619] PartLoader: Part 'LudicrousPropulsionSystems/Parts/FuelTank/fuelTankBorisE/fuelTankBorisE/fuelTankBorisE' has no database record. Creating.
 [LOG 18:08:02.621] DragCubeSystem: Creating drag cubes for part 'fuelTankBorisE'

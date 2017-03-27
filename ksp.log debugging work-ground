@@ -1,0 +1,67 @@
+[LOG 18:08:02.116] PartLoader: Creating part database
+[LOG 18:08:02.118] PartLoader: Compiling Part 'LudicrousPropulsionSystems/Parts/Engine/hybridEngineBodyBlow/bodyBlow/hybridExtraLarge'
+[LOG 18:08:02.139] EffectList: Created 14 effect types
+[WRN 18:08:02.153] PartLoader Warning: Variable catagory not found in Part
+[WRN 18:08:02.154] PartLoader Warning: Variable subcatagory not found in Part
+[LOG 18:08:02.191] PartLoader: Part 'LudicrousPropulsionSystems/Parts/Engine/hybridEngineBodyBlow/bodyBlow/hybridExtraLarge' has no database record. Creating.
+[LOG 18:08:02.199] DragCubeSystem: Creating drag cubes for part 'hybridExtraLarge'
+[LOG 18:08:02.241] PartLoader: Compiling Part 'LudicrousPropulsionSystems/Parts/Engine/hybridEngineMite/mite/hybridSmall'
+[WRN 18:08:02.243] PartLoader Warning: Variable catagory not found in Part
+[LOG 18:08:02.249] PartLoader: Part 'LudicrousPropulsionSystems/Parts/Engine/hybridEngineMite/mite/hybridSmall' has no database record. Creating.
+[LOG 18:08:02.253] DragCubeSystem: Creating drag cubes for part 'hybridSmall'
+[LOG 18:08:02.284] PartLoader: Compiling Part 'LudicrousPropulsionSystems/Parts/Engine/hybridEngineRunner/runner/hybridLarge'
+[WRN 18:08:02.287] PartLoader Warning: Variable catagory not found in Part
+[WRN 18:08:02.288] PartLoader Warning: Variable subcatagory not found in Part
+[LOG 18:08:02.294] PartLoader: Part 'LudicrousPropulsionSystems/Parts/Engine/hybridEngineRunner/runner/hybridLarge' has no database record. Creating.
+[LOG 18:08:02.298] DragCubeSystem: Creating drag cubes for part 'hybridLarge'
+[LOG 18:08:02.321] PartLoader: Compiling Part 'LudicrousPropulsionSystems/Parts/Engine/hybridEngineScrewdriver/screwdriver/hybridMedium'
+[WRN 18:08:02.323] PartLoader Warning: Variable catagory not found in Part
+[LOG 18:08:02.329] PartLoader: Part 'LudicrousPropulsionSystems/Parts/Engine/hybridEngineScrewdriver/screwdriver/hybridMedium' has no database record. Creating.
+[LOG 18:08:02.333] DragCubeSystem: Creating drag cubes for part 'hybridMedium'
+[LOG 18:08:02.359] PartLoader: Compiling Part 'LudicrousPropulsionSystems/Parts/Engine/liquidEngineADPT-303/ADPT-303/adaptingEngineSmall'
+[WRN 18:08:02.361] ERROR: Bad node definition at node_stack_top
+[WRN 18:08:02.362] ERROR: Bad node definition at node_stack_bottom
+[WRN 18:08:02.363] PartLoader Warning: Variable catagory not found in Part
+[ERR 18:08:02.370] Cannot find a PartModule of typename 'ModuleGimble'
+
+[LOG 18:08:02.378] PartLoader: Part 'LudicrousPropulsionSystems/Parts/Engine/liquidEngineADPT-303/ADPT-303/adaptingEngineSmall' has no database record. Creating.
+[LOG 18:08:02.383] DragCubeSystem: Creating drag cubes for part 'adaptingEngineSmall'
+[LOG 18:08:02.436] PartLoader: Compiling Part 'LudicrousPropulsionSystems/Parts/Engine/liquidEngineADPT-603/ADPT-603/adaptingEngineMedium'
+[WRN 18:08:02.438] ERROR: Bad node definition at node_stack_top
+[WRN 18:08:02.439] ERROR: Bad node definition at node_stack_bottom
+[WRN 18:08:02.440] PartLoader Warning: Variable catagory not found in Part
+[ERR 18:08:02.443] Cannot find a PartModule of typename 'ModuleGimble'
+
+[LOG 18:08:02.452] PartLoader: Part 'LudicrousPropulsionSystems/Parts/Engine/liquidEngineADPT-603/ADPT-603/adaptingEngineMedium' has no database record. Creating.
+[LOG 18:08:02.457] DragCubeSystem: Creating drag cubes for part 'adaptingEngineMedium'
+[LOG 18:08:02.529] PartLoader: Compiling Part 'LudicrousPropulsionSystems/Parts/Engine/liquidEngineBullet/bullet/bulletEngine'
+[WRN 18:08:02.531] ERROR: Bad node definition at node_stack_top
+[WRN 18:08:02.532] ERROR: Bad node definition at node_stack_bottom
+[WRN 18:08:02.533] PartLoader Warning: Variable catagory not found in Part
+[LOG 18:08:02.543] PartLoader: Part 'LudicrousPropulsionSystems/Parts/Engine/liquidEngineBullet/bullet/bulletEngine' has no database record. Creating.
+[LOG 18:08:02.548] DragCubeSystem: Creating drag cubes for part 'bulletEngine'
+[LOG 18:08:02.616] PartLoader: Compiling Part 'LudicrousPropulsionSystems/Parts/FuelTank/fuelTankBorisE/fuelTankBorisE/fuelTankBorisE'
+[LOG 18:08:02.619] PartLoader: Part 'LudicrousPropulsionSystems/Parts/FuelTank/fuelTankBorisE/fuelTankBorisE/fuelTankBorisE' has no database record. Creating.
+[LOG 18:08:02.621] DragCubeSystem: Creating drag cubes for part 'fuelTankBorisE'
+[LOG 18:08:02.647] PartLoader: Compiling Part 'LudicrousPropulsionSystems/Parts/FuelTank/fuelTankCyrusH/fuelTankCyrusH/fuelTankCyrusH'
+[LOG 18:08:02.650] PartLoader: Part 'LudicrousPropulsionSystems/Parts/FuelTank/fuelTankCyrusH/fuelTankCyrusH/fuelTankCyrusH' has no database record. Creating.
+[LOG 18:08:02.652] DragCubeSystem: Creating drag cubes for part 'fuelTankCyrusH'
+[LOG 18:08:02.677] PartLoader: Compiling Part 'LudicrousPropulsionSystems/Parts/FuelTank/fuelTankFelixK/fuelTankFelixK/fuelTankFelixK'
+[LOG 18:08:02.680] PartLoader: Part 'LudicrousPropulsionSystems/Parts/FuelTank/fuelTankFelixK/fuelTankFelixK/fuelTankFelixK' has no database record. Creating.
+[LOG 18:08:02.682] DragCubeSystem: Creating drag cubes for part 'fuelTankFelixK'
+[LOG 18:08:02.707] PartLoader: Compiling Part 'LudicrousPropulsionSystems/Parts/FuelTank/fuelTankS5-28800/tank-S5-28800/fuelTank28800'
+[LOG 18:08:02.710] PartLoader: Part 'LudicrousPropulsionSystems/Parts/FuelTank/fuelTankS5-28800/tank-S5-28800/fuelTank28800' has no database record. Creating.
+[LOG 18:08:02.712] DragCubeSystem: Creating drag cubes for part 'fuelTank28800'
+[LOG 18:08:02.737] PartLoader: Compiling Part 'LudicrousPropulsionSystems/Parts/FuelTank/fuelTankT1600/tank-FLT1600/fuelTank1600'
+[LOG 18:08:02.740] PartLoader: Part 'LudicrousPropulsionSystems/Parts/FuelTank/fuelTankT1600/tank-FLT1600/fuelTank1600' has no database record. Creating.
+[LOG 18:08:02.741] DragCubeSystem: Creating drag cubes for part 'fuelTank1600'
+[LOG 18:08:02.765] PartLoader: Compiling Part 'LudicrousPropulsionSystems/Parts/FuelTank/fuelTankT3200/tank-FLT3200/fuelTank3200'
+[WRN 18:08:02.767] PartLoader Warning: Variable TechRequried not found in Part
+[LOG 18:08:02.769] PartLoader: Part 'LudicrousPropulsionSystems/Parts/FuelTank/fuelTankT3200/tank-FLT3200/fuelTank3200' has no database record. Creating.
+[LOG 18:08:02.770] DragCubeSystem: Creating drag cubes for part 'fuelTank3200'
+[LOG 18:08:02.795] PartLoader: Compiling Part 'LudicrousPropulsionSystems/Parts/FuelTank/fuelTankZ250-128/tank-Z250-128/fuelTank128'
+[LOG 18:08:02.799] PartLoader: Part 'LudicrousPropulsionSystems/Parts/FuelTank/fuelTankZ250-128/tank-Z250-128/fuelTank128' has no database record. Creating.
+[LOG 18:08:02.800] DragCubeSystem: Creating drag cubes for part 'fuelTank128'
+[LOG 18:08:02.827] PartLoader: Compiling Part 'LudicrousPropulsionSystems/Parts/FuelTank/fuelTankZ250-256/tank-Z250-256/fuelTank256'
+[LOG 18:08:02.832] PartLoader: Part 'LudicrousPropulsionSystems/Parts/FuelTank/fuelTankZ250-256/tank-Z250-256/fuelTank256' has no database record. Creating.
+[LOG 18:08:02.834] DragCubeSystem: Creating drag cubes for part 'fuelTank256'
